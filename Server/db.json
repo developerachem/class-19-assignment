@@ -1,0 +1,256 @@
+{
+  "developers": [
+    {
+      "id": 1,
+      "name": "MD ACHEM",
+      "email": "mdachem6@gmail.com",
+      "gender": "Male",
+      "skillsID": "1",
+      "photo": "https://i.ibb.co/G5yyssZ/Scuare.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Developer Achem",
+      "email": "developerachem@gmail.com",
+      "gender": "Female",
+      "skillsID": "2",
+      "photo": "https://i.ibb.co/6ZQ01rM/Achem.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Tumpar Ma",
+      "email": "tumparma@gmail.com",
+      "gender": "Female",
+      "skillsID": "9",
+      "photo": "https://i.ibb.co/J5Td7Xd/cutton.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Sufian",
+      "email": "suf@gmail.com",
+      "gender": "Female",
+      "skillsID": "5",
+      "photo": "https://i.ibb.co/zNqKYjC/fc4cd1e04c2cd58f8de7602ef24ae475-karibu-korean-art.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Ananda",
+      "email": "ananda@gmail.com",
+      "gender": "Male",
+      "skillsID": "1",
+      "photo": "https://i.ibb.co/zNqKYjC/fc4cd1e04c2cd58f8de7602ef24ae475-karibu-korean-art.jpg"
+    }
+  ],
+  "skills": [
+    {
+      "id": "1",
+      "name": "MERN Stack"
+    },
+    {
+      "id": "2",
+      "name": "JavaScript"
+    },
+    {
+      "id": "3",
+      "name": "Django"
+    },
+    {
+      "id": "4",
+      "name": "PHP"
+    },
+    {
+      "id": "5",
+      "name": "Python"
+    },
+    {
+      "id": "6",
+      "name": "HTML"
+    },
+    {
+      "id": "7",
+      "name": "CSS"
+    },
+    {
+      "id": "8",
+      "name": "SCSS"
+    },
+    {
+      "id": "9",
+      "name": "React JS"
+    },
+    {
+      "id": "10",
+      "name": "Node JS"
+    }
+  ],
+  "bransds": [
+    {
+      "id": 3,
+      "name": "Sony"
+    },
+    {
+      "id": 4,
+      "name": "HP"
+    },
+    {
+      "id": 5,
+      "name": "Nescafe"
+    },
+    {
+      "id": 6,
+      "name": "LG"
+    },
+    {
+      "id": 7,
+      "name": "Itel"
+    },
+    {
+      "id": 8,
+      "name": "Nan"
+    }
+  ],
+  "stafrool": [
+    {
+      "id": 2,
+      "name": "Manager"
+    },
+    {
+      "id": 3,
+      "name": "CEO"
+    },
+    {
+      "id": 4,
+      "name": "VD"
+    }
+  ],
+  "catagory": [
+    {
+      "id": 2,
+      "name": "AC"
+    },
+    {
+      "id": 3,
+      "name": "TV"
+    },
+    {
+      "id": 4,
+      "name": "Food"
+    },
+    {
+      "id": 5,
+      "name": "Fan"
+    },
+    {
+      "id": 6,
+      "name": "Cloth"
+    },
+    {
+      "id": 7,
+      "name": "Monitor"
+    },
+    {
+      "id": 8,
+      "name": "Microphone"
+    }
+  ],
+  "product": [
+    {
+      "id": 1,
+      "time": 0,
+      "D_and_T": "01/19 AM - 22/02/2022",
+      "name": "Monitor 22\" f",
+      "sku": "M564",
+      "rPrice": "12000",
+      "sPrice": "11500",
+      "catagoryID": "7",
+      "brandID": "4",
+      "image": "https://indexitbd.com/image/cache/catalog/products-img/hp-27f-1-500x500-500x500.jpg",
+      "sortDis": "This Is A Good Monitor",
+      "disc": "Yehuecauhceratops Drusilasaura Tatankaceratops Albertavenator Notoceratops Conchoraptor Xuwulong Zhongornis Morelladon Delapparentia Siamotyrannus Gobiraptor Monolophosaurus Diabloceratops Hungarosaurus Delapparentia Cristatusaurus Oohkotokia Camptosaurus Amargastegos Aetonyx Volgatitan Vitakrisaurus Regaliceratops Erectopus Shanshanosaurus Rhopalodon Aoniraptor Macrodontophion Anatosaurus Chiayusaurus Geminiraptor Eolambia Palaeosaurus Natronasaurus Labocania Rhabdodon Atlantosaurus Dakotaraptor Poekilopleuron Conchoraptor Itemirus Blikanasaurus Saldamosaurus Rukwatitan Hudiesaurus Albertadromeus Magnirostris Nanuqsaurus Kulindapteryx."
+    },
+    {
+      "id": 2,
+      "time": 0,
+      "D_and_T": "05/19 PM - 22/02/2022",
+      "name": "Apple 1kg",
+      "sku": "A554",
+      "rPrice": "260",
+      "sPrice": "240",
+      "catagoryID": "4",
+      "brandID": "8",
+      "image": "https://storage.sg.content-cdn.io/in-resources/8845e144-8902-4204-b80f-9dc7dc2f4bcb/Images/userimages/2901063_2022.jpg",
+      "sortDis": "Dystrophaeus Trialestes Supersaurus Gasosaurus Ostafrikasaurus Andesaurus.",
+      "disc": "\nNedoceratops Spiclypeus Mantellodon Sonidosaurus Blikanasaurus Nyasasaurus Sonidosaurus Arstanosaurus Quilmesaurus Fabrosaurus Zhongyuansaurus Fusuisaurus Acheroraptor Qantassaurus Yinlong Heterodontosaurus Arctosaurus Rinchenia Amtosaurus Chialingosaurus Europasaurus Condorraptor Polyonax Ignavusaurus Genyodectes Saurophaganax Pradhania Bistahieversor Noasaurus Arizonasaurus Zuoyunlong Emausaurus Leaellynasaura Nyasasaurus Sinopelta Beishanlong Betasuchus Krzyzanowskisaurus Hongshanosaurus Arkansaurus Asiatosaurus Sinosauropteryx Argentinosaurus Eurolimnornis Pararhabdodon Aggiosaurus Duriavenator Loricosaurus Kundurosaurus Tanius.\n"
+    },
+    {
+      "id": 3,
+      "time": 0,
+      "D_and_T": "05/19 PM - 22/02/2022",
+      "name": "Apple 1kg",
+      "sku": "A225",
+      "rPrice": "300",
+      "sPrice": "270",
+      "catagoryID": "4",
+      "brandID": "8",
+      "image": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=400,height=400,quality=75,format=auto,fit=cover,g=top/in-resources/8845e144-8902-4204-b80f-9dc7dc2f4bcb/Images/ProductImages/Source/2901460.jpg",
+      "sortDis": "Dystrophaeus Trialestes Supersaurus Gasosaurus Ostafrikasaurus Andesaurus.",
+      "disc": "\nNedoceratops Spiclypeus Mantellodon Sonidosaurus Blikanasaurus Nyasasaurus Sonidosaurus Arstanosaurus Quilmesaurus Fabrosaurus Zhongyuansaurus Fusuisaurus Acheroraptor Qantassaurus Yinlong Heterodontosaurus Arctosaurus Rinchenia Amtosaurus Chialingosaurus Europasaurus Condorraptor Polyonax Ignavusaurus Genyodectes Saurophaganax Pradhania Bistahieversor Noasaurus Arizonasaurus Zuoyunlong Emausaurus Leaellynasaura Nyasasaurus Sinopelta Beishanlong Betasuchus Krzyzanowskisaurus Hongshanosaurus Arkansaurus Asiatosaurus Sinosauropteryx Argentinosaurus Eurolimnornis Pararhabdodon Aggiosaurus Duriavenator Loricosaurus Kundurosaurus Tanius.\n"
+    },
+    {
+      "id": 4,
+      "time": 0,
+      "D_and_T": "05/19 PM - 21/02/2022",
+      "name": "Anar 2kg",
+      "sku": "A558",
+      "rPrice": "450",
+      "sPrice": "380",
+      "catagoryID": "4",
+      "brandID": "8",
+      "image": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=400,height=400,quality=75,format=auto,fit=cover,g=top/in-resources/8845e144-8902-4204-b80f-9dc7dc2f4bcb/Images/ProductImages/Source/2901454_19.jpg",
+      "sortDis": "Xixiposaurus Daspletosaurus Nuthetes Elrhazosaurus Aristosaurus Agustinia.",
+      "disc": "Padillasaurus Zuolong Neimongosaurus Overosaurus Onychosaurus Microhadrosaurus Proceratosaurus Uteodon Saldamosaurus Craterosaurus Microhadrosaurus Diluvicursor Macrocollum Tarchia Dracopelta Dakotaraptor Avimimus Tyrannotitan Richardoestesia Saichania Amurosaurus Dreadnoughtus Gobiraptor Atrociraptor Sinornithomimus Rajasaurus Gobititan Siamosaurus Morrosaurus Cryptovolans.\n"
+    },
+    {
+      "id": 5,
+      "time": 0,
+      "D_and_T": "03/56 PM - 21/02/2022",
+      "name": "Narkel",
+      "sku": "N663",
+      "rPrice": "40",
+      "sPrice": "35",
+      "catagoryID": "4",
+      "brandID": "8",
+      "image": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=400,height=400,quality=75,format=auto,fit=cover,g=top/in-resources/8845e144-8902-4204-b80f-9dc7dc2f4bcb/Images/ProductImages/Source/2901111_19.jpg",
+      "sortDis": "Xixiposaurus Daspletosaurus Nuthetes Elrhazosaurus Aristosaurus Agustinia.",
+      "disc": "Padillasaurus Zuolong Neimongosaurus Overosaurus Onychosaurus Microhadrosaurus Proceratosaurus Uteodon Saldamosaurus Craterosaurus Microhadrosaurus Diluvicursor Macrocollum Tarchia Dracopelta Dakotaraptor Avimimus Tyrannotitan Richardoestesia Saichania Amurosaurus Dreadnoughtus Gobiraptor Atrociraptor Sinornithomimus Rajasaurus Gobititan Siamosaurus Morrosaurus Cryptovolans.\n"
+    },
+    {
+      "id": 6,
+      "time": 0,
+      "D_and_T": "03/55 PM - 22/02/2022",
+      "name": "Soyebin Tel 3kg",
+      "sku": "A665",
+      "rPrice": "520",
+      "sPrice": "480",
+      "catagoryID": "4",
+      "brandID": "8",
+      "image": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=400,height=400,quality=75,format=auto,fit=cover,g=top/in-resources/8845e144-8902-4204-b80f-9dc7dc2f4bcb/Images/ProductImages/Source/2400076.jpg",
+      "sortDis": "Dystrophaeus Trialestes Supersaurus Gasosaurus Ostafrikasaurus Andesaurus.",
+      "disc": "Xixiposaurus Daspletosaurus Nuthetes Elrhazosaurus Aristosaurus Agustinia.Padillasaurus Zuolong Neimongosaurus Overosaurus Onychosaurus Microhadrosaurus Proceratosaurus Uteodon Saldamosaurus Craterosaurus Microhadrosaurus Diluvicursor Macrocollum Tarchia Dracopelta Dakotaraptor Avimimus Tyrannotitan Richardoestesia Saichania Amurosaurus Dreadnoughtus Gobiraptor Atrociraptor Sinornithomimus Rajasaurus Gobititan Siamosaurus Morrosaurus Cryptovolans.\n"
+    },
+    {
+      "id": 7,
+      "time": 0,
+      "D_and_T": "05/19 PM - 22/02/2022",
+      "name": "Sorisar tel 5kg",
+      "sku": "S5524",
+      "rPrice": "800",
+      "sPrice": "750",
+      "catagoryID": "4",
+      "brandID": "8",
+      "image": "https://storage.sg.content-cdn.io/cdn-cgi/image/%7Bwidth%7D,%7Bheight%7D,quality=75,format=auto/in-resources/8845e144-8902-4204-b80f-9dc7dc2f4bcb/Images/ProductImages/Source/2401094.jpg",
+      "sortDis": "Dystrophaeus Trialestes Supersaurus Gasosaurus Ostafrikasaurus Andesaurus.",
+      "disc": "\nMasiakasaurus Propanoplosaurus Cerasinops Dracovenator Eoceratops Labrosaurus Eomamenchisaurus Amargatitanis Pachysaurops Elopteryx Sphenospondylus Tonganosaurus Uintasaurus Aepisaurus Dyslocosaurus Caihong Syrmosaurus Panoplosaurus Bayannurosaurus Claosaurus Lexovisaurus Camelotia Shuangmiaosaurus Dolichosuchus Cerasinops Anchiceratops Dalianraptor Anabisetia Choyrodon Tsaagan."
+    }
+  ]
+}
